@@ -1,0 +1,10 @@
+.navbar-default, .panel-heading, .btn-primary
+{
+	    background: #6a1102 !important;
+	    border-color: #6a1102 !important;
+	    padding-top: 20px;
+        color:#fff;
+        padding-bottom: 20px;
+        font-family: initial;
+
+}
